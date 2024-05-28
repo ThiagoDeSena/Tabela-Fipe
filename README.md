@@ -20,15 +20,15 @@ referência nacional para preços de carros usados no Brasil.
 
 ## Funcionalidades
 
-:heavy_check_mark: `Interface de Usuário no Console:` O usuário interage com o conversor através de menus intuitivos e opções numéricas.
+:heavy_check_mark: `Consulta por categoria:` Permite selecionar entre carros, motos ou caminhões. 
 
-:heavy_check_mark: `Integração com API Exchange Rate:`  A API fornece taxas de câmbio precisas e atualizadas em tempo real.
+:heavy_check_mark: `Consulta por marca:`  Permite selecionar a marca do veículo desejado, como Ford, Volkswagen, Fiat, etc.
 
-:heavy_check_mark: `Conversão de Moedas:`  O programa converte valores entre as moedas suportadas com base nas taxas de câmbio da API.
+:heavy_check_mark: `Consulta por modelo:`  Permite selecionar o modelo específico do veículo, como Palio, Gol, Fusca, etc.
 
-:heavy_check_mark: `Validação de Entrada:` O programa verifica se a entrada do usuário é válida, evitando erros e garantindo uma experiência fluida.
+:heavy_check_mark: `Consulta por ano:` Permite selecionar o ano de fabricação do veículo.
 
-:heavy_check_mark: `Repetição de Conversões:` O usuário pode realizar quantas conversões desejar, sem precisar reiniciar o programa.
+:heavy_check_mark: `Exibição do valor FIPE:` Exibe o valor do veículo de acordo com a categoria, marca, modelo e ano selecionados.
 
 ## Como usar
 
