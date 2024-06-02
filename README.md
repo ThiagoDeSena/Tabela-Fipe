@@ -10,6 +10,21 @@
 implementar uma aplicação para consultar o valor médio de veículos (carros, motos ou caminhões) de acordo com a tabela FIPE, que pode ser acessada através desse site
 https://veiculos.fipe.org.br/
 
+- A consulta aos valores dos veículos pelo site tem o seguinte fluxo:
+- Primeiramente é necessário escolher o tipo do veículo: carro, moto ou caminhão.
+
+  ![image](https://github.com/ThiagoDeSena/Tabela-Fipe/assets/110785400/39cd4437-106a-4a45-85be-2bdb4054dfdc)
+
+- Depois disso, é necessário preencher a MARCA, MODELO e ANO para consulta.
+
+![image](https://github.com/ThiagoDeSena/Tabela-Fipe/assets/110785400/11652eda-acd9-4620-b825-604711d16b7f)
+
+- Por fim, é exibida a avaliação apenas daquele ano escolhido.
+
+![image](https://github.com/ThiagoDeSena/Tabela-Fipe/assets/110785400/d801cbb1-c846-4422-9dc8-c129615ffa7a)
+  
+Exemplo do Programa sendo executado no console:
+
 ![Imagem do console inicial do programa](https://github.com/ThiagoDeSena/Tabela-Fipe/assets/110785400/4dd1c8df-56da-4f68-803f-3c7ed61e6826)
 
 
@@ -17,6 +32,17 @@ Este projeto foi criado para atender às necessidades de quem quer comprar veíc
 referência nacional para preços de carros usados no Brasil.
 
 </p>
+
+## Objetivos do projeto
+
+- O objetivo do projeto é ter um fluxo similar ao que é feito no site, porém com algumas melhorias.
+- Criaremos um projeto Spring com linha de comando, utilizando a classe Scanner para fazer interações com o usuário via terminal.
+- Solicitaremos que o usuário digite o tipo de veículo desejado (carro, caminhão ou moto).
+- Feito isso, listaremos todas as marcas daquele tipo de veículo, solicitando que o usuário escolha uma marca pelo código.
+- Após essa escolha, listaremos todos os modelos de veículos daquela marca.
+- Solicitaremos que o usuário digite um trecho do modelo que ele quer visualizar, por exemplo PALIO.
+- Listaremos apenas os modelos que tiverem a palavra PALIO no nome.
+- Usuário escolherá um modelo específico pelo código e, diferente do site, já listaremos as avaliações para TODOS os anos disponíveis daquele modelo, retornando uma lista de valores dos anos do modelo de veículo escolhido.
 
 ## Funcionalidades
 
