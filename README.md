@@ -37,18 +37,12 @@ https://github.com/ThiagoDeSena/Tabela-Fipe/assets/110785400/545df798-0790-4d08-
 
 ## Benefícios
 
-- Atualizações em Tempo Real: As taxas de câmbio são sempre as mais recentes, garantindo conversões precisas.
-- Fácil de Usar: A interface no console é intuitiva e simples de navegar, tornando o conversor acessível a todos.
-- Versátil: Suporta as principais moedas da América do Sul, permitindo conversões entre diferentes países.
-- Flexível: O usuário pode realizar quantas conversões desejar, sem restrições.
-- Eficiente: O programa é leve e executa as conversões rapidamente.
+- Praticidade: Consulta rápida e fácil dos valores FIPE.
+- Precisão: Informações atualizadas e confiáveis da Tabela FIPE.
+- Organização: Permite aos colecionadores gerenciar sua coleção de forma organizada, com acesso aos valores dos seus veículos.
+- Decisão informada: Auxilia na tomada de decisões sobre compra, venda ou avaliação de carros, motos e caminhões.
+
  
-
-## Público-alvo
-
-- Pessoas que desejam converter moedas de forma rápida e precisa.
-- Estudantes de programação que buscam aprimorar suas habilidades em Java e APIs.
-- Desenvolvedores que desejam criar seus próprios conversores de moedas ou integrar a funcionalidade de conversão em seus projetos.
 
 ## Desenvolvedores
 
